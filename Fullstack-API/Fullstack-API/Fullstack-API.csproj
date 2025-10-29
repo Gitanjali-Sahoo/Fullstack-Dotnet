@@ -7,4 +7,8 @@
     <RootNamespace>Fullstack_API</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
